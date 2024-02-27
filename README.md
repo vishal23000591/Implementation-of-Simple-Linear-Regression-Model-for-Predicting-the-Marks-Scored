@@ -77,7 +77,7 @@ print("RMSE : ",rmse)
 ![second experiment ml 1](https://github.com/vishal23000591/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139719/dbefb09b-919f-4101-a541-7b00b74e8fec)
 
 
-## Training set:![
+## Training set:
 ![second experiment ml 2](https://github.com/vishal23000591/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139719/170e88ec-5625-43be-9b07-837a93eb2372)
 
 
